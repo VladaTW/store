@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.tescocrud
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, http-client, java, java-application, jdbc-hikari, junit, lombok, mysql, netty-server, readme, shade, slf4j-simple, testcontainers, yaml]
