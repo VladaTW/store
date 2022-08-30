@@ -1,0 +1,7 @@
+
+docker run --name tesco-party-mysql -d \
+    -p 3306:3306 \
+    -e MYSQL_ROOT_PASSWORD=tesco-rules \
+    --restart unless-stopped \
+    mysql:8
+

@@ -24,3 +24,17 @@
 
 - [https://www.testcontainers.org/](https://www.testcontainers.org/)
 
+## TODO
+### 1) create docker-compose.yml with volumes and ... for MySQL
+### 2) create docker container for the whole service (app + db + whatever else...)
+### 3) write repositories for data persistence
+### 4) refactor interfaces to expose API endpoint
+###.
+
+
+
+###.
+
+
+
+###.
